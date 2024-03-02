@@ -3,7 +3,7 @@ Library simulation.
 
 You only need import the .sql file in mysql.
 
-For login type "space" in Username and "space" in Password.
+For login type a space in Username and space in Password.
 
 This system contains:
   -Login system
